@@ -1,0 +1,51 @@
+html {
+    background-color: rgb(205, 153, 218);
+    padding: 10%;
+}
+
+h1 {
+    color: darkmagenta;
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cidade {
+    color:#800042;
+    font-weight: bold;
+}
+
+.post {
+    background-color: #F25CAF;
+    width: 85%;
+    padding: 5px; 
+}
+
+#img_sabara {
+    width: 150px;
+    height:100px;
+    float: left;
+    padding: 4px;
+}
+
+#img_joao{
+    width: 250px;
+    height:210px;
+    float:left;
+    padding: 6px;
+}
+
+#img_thome{
+    width: 150px;
+    height:100px;
+    float: left;
+    padding: 6px;
+}
+
+p{
+    margin-left: 14px;
+}
